@@ -25,7 +25,7 @@
 ## 🧠 O que eu faço.
 
 - 🧩 Desenvolvimento de lógica e algoritmos
-- 💻 Programação em C e Python
+- 💻 Programação em C, Java e Python
 - 📊 Análise e manipulação de dados para aprendizado
 - 🛠️ Projetos acadêmicos e exercícios práticos
 - 📂 Versionamento de código com Git e GitHub
