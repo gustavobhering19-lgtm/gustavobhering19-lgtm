@@ -12,7 +12,7 @@
 ## 🌐 Onde me encontrar.
 <p align="left">
   <a href="https://https://github.com/gustavobhering19-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-gustavobhering19-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-gustavobhering19-lgtm-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/gustavo.italo.bhering">
     <img src="https://img.shields.io/badge/Instagram-@gustavo.italo.bhering-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
