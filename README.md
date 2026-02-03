@@ -45,10 +45,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavobhering19&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobhering19&layout=compact&theme=tokyonight&hide_border=true&v=2" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavobhering19-lgtm&theme=tokyo-night&hide_border=true)
+
 
 
 
