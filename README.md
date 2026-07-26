@@ -58,15 +58,13 @@ Este GitHub reúne minha evolução técnica, estudos contínuos e projetos dese
 O Optical Pro é uma plataforma SaaS desenvolvida para modernizar e profissionalizar a rotina de óticas, consultores ópticos e laboratórios. Reúne em um único sistema as principais ferramentas técnicas do setor óptico — da calculadora de espessura à gestão de clientes — com uma interface de alto padrão, intuitiva e responsiva.
 🔗 [Ver repositório](https://github.com/gustavobhering19-lgtm/OpticalPro)
 
-### 🔹 SaaS de Manutenção para Imobiliárias
+### 🔹 SaaS de Manutenção para Imobiliárias - Em desenvolvimento.
 Plataforma para facilitar a gestão de serviços de reparo e manutenção solicitados por imobiliárias, conectando solicitações a prestadores de serviço.
 🔗 [Ver repositório](#)
 
-### 🔹 SaaS de Gestão de Pacientes para Dentistas
+### 🔹 SaaS de Gestão de Pacientes para Dentistas - Em desenvolvimento.
 Sistema voltado para clínicas odontológicas, com foco na organização e acompanhamento de pacientes e atendimentos.
 🔗 [Ver repositório](#)
-
-> 💡 Dica: quando esses dois últimos projetos ganharem nome, é só trocar o texto e adicionar o link do repositório em cada badge acima.
 
 ---
 
