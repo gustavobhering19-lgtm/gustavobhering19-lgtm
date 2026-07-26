@@ -1,60 +1,94 @@
-# Olá, me chamo Gustavo Bhering!
+<h1 align="left">Olá, me chamo Gustavo Bhering! 👋</h1>
 
-**💻 Estudante de Programação | Em busca de estágio em tecnologia  
-📊 Interesse em Desenvolvimento de Software e Análise de Dados**
+**💻 Desenvolvedor em formação | Em busca de oportunidade como Programador (CLT/Júnior)**
+**📊 Interesse em Desenvolvimento de Software e Análise de Dados**
 
 🇧🇷 Brasil
 
-*Sou estudante de programação e estou em fase de formação, com foco em lógica de programação, análise de dados e desenvolvimento de soluções simples e eficientes através de projetos acadêmicos e práticos.*
+Sou estudante de programação, atualmente 100% focado em conquistar minha primeira oportunidade como desenvolvedor. Tenho evoluído construindo projetos práticos — incluindo SaaS reais — além de estudos contínuos em lógica, front-end, back-end e banco de dados.
 
-*Este GitHub reúne minha evolução técnica, estudos contínuos e projetos desenvolvidos durante a faculdade e de minha autoria.* 🚀
+Este GitHub reúne minha evolução técnica, estudos contínuos e projetos desenvolvidos durante a faculdade e de minha autoria. 🚀
+
+---
 
 ## 🌐 Onde me encontrar.
-  <a href="https://www.instagram.com/gustavo.italo.bhering">
-    <img src="https://img.shields.io/badge/Instagram-@gustavo.italo.bhering-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavobhering07" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Bhering-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-@gustavo.italo.bhering-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo.italo.bhering)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Bhering-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavobhering07/)
+
+---
 
 ## 🧠 O que eu faço.
 
 - 🧩 Desenvolvimento de lógica e algoritmos
-- 💻 Programação em C, Java e Python
-- 📊 Análise e manipulação de dados para aprendizado
-- 🛠️ Projetos acadêmicos e exercícios práticos
-- 📂 Versionamento de código com Git e GitHub
+- 💻 Programação em Python, Java, C, HTML, CSS e JavaScript
+- 🌱 Aprendendo TypeScript e PHP
+- 🖥️ Desenvolvimento de aplicações web com Node.js, banco de dados, Vite e Tailwind CSS
+- 📊 Análise e manipulação de dados
+- 🛠️ Projetos próprios e acadêmicos, incluindo SaaS
+- 📁 Versionamento de código com Git e GitHub
 - 📚 Aprendizado contínuo em tecnologia
 
-## 🛠️ Tecnologias em aprendizado
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 Optcal Pro
+_Adicione aqui uma descrição curta (1-2 linhas) do que o projeto faz._
+🔗 [Ver repositório](https://github.com/gustavobhering19-lgtm/OpticalPro)
+
+### 🔹 SaaS de Manutenção para Imobiliárias
+Plataforma para facilitar a gestão de serviços de reparo e manutenção solicitados por imobiliárias, conectando solicitações a prestadores de serviço.
+🔗 [Ver repositório](#)
+
+### 🔹 SaaS de Gestão de Pacientes para Dentistas
+Sistema voltado para clínicas odontológicas, com foco na organização e acompanhamento de pacientes e atendimentos.
+🔗 [Ver repositório](#)
+
+> 💡 Dica: quando esses dois últimos projetos ganharem nome, é só trocar o texto e adicionar o link do repositório em cada badge acima.
+
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavobhering19-lgtm&theme=tokyo-night&hide_border=true)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavobhering19-lgtm&show_icons=true&theme=dark&hide_border=true)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavobhering19-lgtm&theme=react-dark&hide_border=true)
 
+---
 
-
-**💡 Diferencial**
+## 💡 Diferencial
 
 Tenho experiência com atendimento ao público e vendas, o que contribuiu para o desenvolvimento de habilidades comportamentais essenciais, como comunicação, responsabilidade, trabalho em equipe e comprometimento.
 
-**🚀 Objetivo profissional**
+## 🎯 Objetivo profissional
 
-Conquistar uma oportunidade de estágio em tecnologia, onde eu possa aprender na prática, desenvolver minhas habilidades técnicas e contribuir com a equipe.
+Conquistar minha primeira oportunidade como programador (CLT ou júnior), aplicando na prática o que venho desenvolvendo em projetos reais, aprendendo continuamente e contribuindo com a equipe desde o primeiro dia.
 
-**🤝 Aberto a**
-- Vagas de estágio  
-- Projetos de aprendizado  
-- Colaborações acadêmicas  
+## 🤝 Aberto a
+
+- Vagas de programador (CLT/Júnior)
+- Freelas e projetos reais
+- Colaborações em projetos open source
+- Networking com outros devs
